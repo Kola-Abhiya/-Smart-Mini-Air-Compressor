@@ -1,0 +1,6 @@
+- Designed and fabricated a compact mini air compressor powered by a 12V DC geared motor, focusing on efficiency and portability.
+- Integrated electrical and mechanical components to convert electrical energy into highpressure air for versatile applications.
+- Conducted market research and technical analysis to optimize compressor performance and cost-effectiveness.
+- Implemented safety, maintenance, and troubleshooting protocols to ensure reliable and user-friendly operation.
+- Documented the entire design and fabrication process using technical writing and digital tools.
+- Demonstrated the compressorʼs utility in both industrial and domestic settings, highlighting its adaptability and innovation.
